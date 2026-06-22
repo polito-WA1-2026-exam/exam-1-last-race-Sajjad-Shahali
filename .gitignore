@@ -1,0 +1,12 @@
+/.venv
+/Material
+node_modules/
+client/node_modules/
+server/node_modules/
+server/database/*.sqlite
+.env
+
+docs/implementation-plan/
+/Exam-rule
+HANDOFF.md
+material-2026/
